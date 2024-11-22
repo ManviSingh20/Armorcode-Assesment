@@ -1,2 +1,2 @@
-# Armorcode-Assesment
-Deploying a Sample Application using Jenkins and Docker
+Hello, World!
+This is a simple CI/CD pipeline demonstration.
